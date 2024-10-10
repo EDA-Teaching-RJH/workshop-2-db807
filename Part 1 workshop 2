@@ -1,0 +1,9 @@
+def main()
+slow = input("input")
+my function(slow)
+def myfunction(text):
+print ("How are you today? :")
+input ("answer:")
+replaced_text = text.replace("input" ,  "....")
+print (replaced_text)
+main()
